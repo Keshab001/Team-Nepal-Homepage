@@ -92,7 +92,7 @@ img{
 }
 #home .page-title{
     text-transform: none;
-    color: red;
+    color: #fff;
 }
 
 .home-content{
@@ -101,7 +101,7 @@ img{
 }
 
 .home-content p{
-    color: red;
+    color: #fff;
     font-weight: bold;
     font-size: 1.125rem;
     margin: 10px 0 42px;
